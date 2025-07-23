@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/barbarianTopG/Ralyeshubdeadrails/refs/heads/main/Ralyes%20hub%20dead%20rail.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/barbarianTopG/Ralyeshubdeadrails/refs/heads/main/Updated%20dead%20rails%20script%20bug%20fixed.lua.txt.txt"))()
